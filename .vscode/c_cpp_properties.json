@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/cyroc/esp/v5.4/esp-idf/components/**",
+                "C:/Users/cyroc/esp/v5.4/esp-idf/components/freertos/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compileCommands": [
+                "C:/Users/cyroc/Documents/projects/espidf/proj1/build/compile_commands.json"
+            ],
+            "configurationProvider": "ms-vscode.cmake-tools",
+            "cStandard": "c99",
+            "compilerPath": "C:\\Users\\cyroc\\.espressif\\tools\\xtensa-esp-elf\\esp-14.2.0_20241119\\xtensa-esp-elf\\bin\\xtensa-esp32-elf-gcc.exe"
+        }
+    ],
+    "version": 4
+}

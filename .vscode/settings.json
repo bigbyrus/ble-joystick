@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "ble_svc_gap.h": "c",
+        "esp_bt.h": "c",
+        "nimble_port_freertos.h": "c",
+        "soc_caps.h": "c"
+    }
+}
